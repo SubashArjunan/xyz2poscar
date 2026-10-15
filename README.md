@@ -36,6 +36,8 @@ cd xyz2poscar
 chmod +x xyz2poscar.sh        # only if the executable bit was lost
 # optional: put it on your PATH
 cp xyz2poscar.sh ~/bin/xyz2poscar
+or
+Just download the xyz2poscar.sh file, make it executable and use it.
 ```
 
 ## Usage
